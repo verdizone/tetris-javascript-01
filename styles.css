@@ -1,0 +1,47 @@
+
+
+html{
+
+}
+
+#title{
+
+    font-weight: 300;
+}
+
+#score{
+
+}
+#start-button{
+
+    padding: .5rem;
+    margin: 2.5rem;
+    font-weight: 600;
+    border-radius: 2rem;
+
+
+}
+
+.grid{
+    width: 200px;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.grid div{
+    width: 20px;
+    height: 20px;
+    /* background-color: red; */
+}
+
+.footer{
+    margin: .5rem;
+    border: solid red 10px;
+    padding: .5rem;
+}
+
+.tetromino{
+   background-color: blue; 
+}
